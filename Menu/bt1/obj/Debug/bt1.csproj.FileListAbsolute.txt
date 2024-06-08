@@ -1,0 +1,13 @@
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\bin\Debug\bt1.exe.config
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\bin\Debug\bt1.exe
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\bin\Debug\bt1.pdb
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\obj\Debug\bt1.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\obj\Debug\bt1.Form1.resources
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\obj\Debug\bt1.Properties.Resources.resources
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\obj\Debug\bt1.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\obj\Debug\bt1.exe
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\obj\Debug\bt1.pdb
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1\bt1\bt1\obj\Debug\bt1.Form2.resources
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1_Thực đơn món ăn\bt1\bt1\bin\Debug\bt1.exe.config
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1_Thực đơn món ăn\bt1\bt1\obj\Debug\bt1.exe
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt1_Thực đơn món ăn\bt1\bt1\obj\Debug\bt1.pdb

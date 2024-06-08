@@ -1,0 +1,9 @@
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\bin\Debug\bt3.exe.config
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\bin\Debug\bt3.exe
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\bin\Debug\bt3.pdb
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\obj\Debug\bt3.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\obj\Debug\bt3.Form1.resources
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\obj\Debug\bt3.Properties.Resources.resources
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\obj\Debug\bt3.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\obj\Debug\bt3.exe
+C:\Users\acer\Desktop\Tấn Đạt\CNNET Cô LINH\bt3_Thuê Phòng\bt3_thuephong\bt3\bt3\obj\Debug\bt3.pdb
