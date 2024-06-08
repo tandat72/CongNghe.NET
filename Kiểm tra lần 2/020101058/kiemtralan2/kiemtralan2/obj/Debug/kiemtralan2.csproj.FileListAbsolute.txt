@@ -1,0 +1,24 @@
+D:\020101058\kiemtralan2\kiemtralan2\bin\Debug\kiemtralan2.exe.config
+D:\020101058\kiemtralan2\kiemtralan2\bin\Debug\kiemtralan2.exe
+D:\020101058\kiemtralan2\kiemtralan2\bin\Debug\kiemtralan2.pdb
+D:\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.csprojResolveAssemblyReference.cache
+D:\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.Form1.resources
+D:\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.Properties.Resources.resources
+D:\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.csproj.GenerateResource.Cache
+D:\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.exe
+D:\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.pdb
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\bin\Debug\kiemtralan2.exe.config
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.exe
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.pdb
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\bin\Debug\kiemtralan2.exe
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\bin\Debug\kiemtralan2.pdb
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.Form1.resources
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.Properties.Resources.resources
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.csproj.GenerateResource.Cache
+D:\cnnet\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\bin\Debug\kiemtralan2.exe.config
+D:\cnnet\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.exe
+D:\cnnet\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.pdb
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\bin\Debug\kiemtralan2.exe.config
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.exe
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 2\020101058\kiemtralan2\kiemtralan2\obj\Debug\kiemtralan2.pdb
