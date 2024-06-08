@@ -1,0 +1,53 @@
+D:\020101058\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe.config
+D:\020101058\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe
+D:\020101058\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.pdb
+D:\020101058\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csprojResolveAssemblyReference.cache
+D:\020101058\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form1.resources
+D:\020101058\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Properties.Resources.resources
+D:\020101058\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csproj.GenerateResource.Cache
+D:\020101058\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.exe
+D:\020101058\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.pdb
+D:\020101058\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form2.resources
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe.config
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.exe
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.pdb
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.pdb
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form1.resources
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form2.resources
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Properties.Resources.resources
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 4 (b1 làm chưa xong )\kiemtralan4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csproj.GenerateResource.Cache
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe.config
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.exe
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.pdb
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.pdb
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csprojResolveAssemblyReference.cache
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form1.resources
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form2.resources
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Properties.Resources.resources
+D:\cnnet\ktl4\ktl4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe.config
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.exe
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.pdb
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.pdb
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form1.resources
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form2.resources
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Properties.Resources.resources
+C:\Users\acer\Desktop\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe.config
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.exe
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.pdb
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.pdb
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form1.resources
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Form2.resources
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.Properties.Resources.resources
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.csproj.GenerateResource.Cache
+D:\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\bin\Debug\kiemtralan4.exe.config
+D:\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.exe
+D:\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 4\Kiểm tra lần 4\kiemtralan4\kiemtralan4\obj\Debug\kiemtralan4.pdb

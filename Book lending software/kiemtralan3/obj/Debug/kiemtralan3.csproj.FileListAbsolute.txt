@@ -1,0 +1,36 @@
+D:\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe.config
+D:\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe
+D:\020101058\kiemtralan3\bin\Debug\kiemtralan3.pdb
+D:\020101058\kiemtralan3\obj\Debug\kiemtralan3.csprojResolveAssemblyReference.cache
+D:\020101058\kiemtralan3\obj\Debug\kiemtralan3.Form1.resources
+D:\020101058\kiemtralan3\obj\Debug\kiemtralan3.Properties.Resources.resources
+D:\020101058\kiemtralan3\obj\Debug\kiemtralan3.csproj.GenerateResource.Cache
+D:\020101058\kiemtralan3\obj\Debug\kiemtralan3.exe
+D:\020101058\kiemtralan3\obj\Debug\kiemtralan3.pdb
+C:\Users\acer\Desktop\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe.config
+C:\Users\acer\Desktop\020101058\kiemtralan3\obj\Debug\kiemtralan3.exe
+C:\Users\acer\Desktop\020101058\kiemtralan3\obj\Debug\kiemtralan3.pdb
+C:\Users\acer\Desktop\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe
+C:\Users\acer\Desktop\020101058\kiemtralan3\bin\Debug\kiemtralan3.pdb
+C:\Users\acer\Desktop\020101058\kiemtralan3\obj\Debug\kiemtralan3.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\020101058\kiemtralan3\obj\Debug\kiemtralan3.Form1.resources
+C:\Users\acer\Desktop\020101058\kiemtralan3\obj\Debug\kiemtralan3.Properties.Resources.resources
+C:\Users\acer\Desktop\020101058\kiemtralan3\obj\Debug\kiemtralan3.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe.config
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.exe
+C:\Users\acer\Desktop\Công nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.pdb
+D:\cnnet\Kiểm tra lần 3\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe.config
+D:\cnnet\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.exe
+D:\cnnet\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.pdb
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe.config
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.exe
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.pdb
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\bin\Debug\kiemtralan3.pdb
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.Form1.resources
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.Properties.Resources.resources
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.csproj.GenerateResource.Cache
+D:\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\bin\Debug\kiemtralan3.exe.config
+D:\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.exe
+D:\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 3\020101058\kiemtralan3\obj\Debug\kiemtralan3.pdb

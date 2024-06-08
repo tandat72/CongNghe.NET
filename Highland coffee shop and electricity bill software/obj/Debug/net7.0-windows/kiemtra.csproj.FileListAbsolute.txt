@@ -1,0 +1,57 @@
+C:\Users\acer\Desktop\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.exe
+C:\Users\acer\Desktop\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.deps.json
+C:\Users\acer\Desktop\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.runtimeconfig.json
+C:\Users\acer\Desktop\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.dll
+C:\Users\acer\Desktop\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.pdb
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.bai1.resources
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.bai2.resources
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.Form1.resources
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.AssemblyInfo.cs
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.dll
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\refint\kiemtra.dll
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.pdb
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.genruntimeconfig.cache
+C:\Users\acer\Desktop\kt\kiemtra\obj\Debug\net7.0-windows\ref\kiemtra.dll
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.exe
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.deps.json
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.runtimeconfig.json
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.dll
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.pdb
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.bai1.resources
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.bai2.resources
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.Form1.resources
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.AssemblyInfo.cs
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.dll
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\refint\kiemtra.dll
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.pdb
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.genruntimeconfig.cache
+C:\Users\acer\Desktop\kiểm tra (b2 chưa lm dc)\kt\kiemtra\obj\Debug\net7.0-windows\ref\kiemtra.dll
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.exe
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.deps.json
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.runtimeconfig.json
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.dll
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\bin\Debug\net7.0-windows\kiemtra.pdb
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.bai1.resources
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.bai2.resources
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.Form1.resources
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.AssemblyInfo.cs
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.dll
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\refint\kiemtra.dll
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.pdb
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\kiemtra.genruntimeconfig.cache
+C:\Users\acer\Desktop\Tấn Đạt\Công Nghệ Net\Kiểm tra lần 1\kiểm tra lan 1\kt\kiemtra\obj\Debug\net7.0-windows\ref\kiemtra.dll
